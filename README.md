@@ -6,7 +6,7 @@
 <br><a href="Chapter 3 -- Religion </a></br>
 <br><a href="Chapter 4 -- Metaphysics </a></br>
 <br><a href="Chapter 5 -- Epistemology</a></br>
-<br><a href="Chapter 6 -- Mind Body </a></br>
+<br><a href="https://robinson-philo.github.io/Chapter-6-Mind-Body/Chapter%206%20Mind-Body/OVERVIEW.htm">Chapter 6 -- Mind Body </a></br>
 <br><a href="Chapter 7 -- Freedom </a></br>
 <br><a href="Chapter 8 -- Ethics </a></br>
 <br><a href="Chapter 9 -- Social Philosophy</a></br>
