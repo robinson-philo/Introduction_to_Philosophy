@@ -3,7 +3,7 @@
 
 <br><a href="Chapter 1 -- Introduction</a></br>
 <br><a href="Chapter 2 -- The Greeks</a></br>
-<br><a href="Chapter 3 -- Religion </a></br>
+<br><a href="https://robinson-philo.github.io/Chapter-3-Religion/Chapter%203%20Religion/CONTENTS.htm">Chapter 3 -- Religion </a></br>
 <br><a href="Chapter 4 -- Metaphysics </a></br>
 <br><a href="Chapter 5 -- Epistemology</a></br>
 <br><a href="https://robinson-philo.github.io/Chapter-6-Mind-Body/Chapter%206%20Mind-Body/OVERVIEW.htm">Chapter 6 -- Mind Body </a></br>
