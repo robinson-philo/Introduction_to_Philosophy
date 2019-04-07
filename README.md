@@ -1,5 +1,4 @@
-# robinson_philo
-<p>Introduction to Philosophy: An Online Textbook by Dr. Philip A. Pecorino</p>
+# Introduction to Philosophy: An Online Textbook by Dr. Philip A. Pecorino
 
 <br><a href="Chapter 1 -- Introduction</a></br>
 <br><a href="Chapter 2 -- The Greeks</a></br>
