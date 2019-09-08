@@ -16,3 +16,4 @@
 #markdown language:
 
 [Here's a full link to the textbook](https://github.com/robinson-philo/Introduction_to_Philosophy)
+[Chapter 1]{https://robinson-philo.github.io/Chapter-1-Introduction/Chapter%201%20Introduction/Lets_Get_Started1.htm}
