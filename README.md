@@ -13,7 +13,7 @@
 <br><a href="Chapter 11 -- Philosophy of Art"</a></br>
 <br><a href="https://robinson-philo.github.io/Chapter-12-Conclusion/Chapter%2012Conclusion/CONTENTS.htm">Chapter 12 -- Conclusion</a></br>
 
-##markdown language:
+# Markdown language:
 
 [Here's a full link to the textbook](https://github.com/robinson-philo/Introduction_to_Philosophy)
 
