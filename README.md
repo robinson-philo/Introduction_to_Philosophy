@@ -23,6 +23,7 @@ Chapter 5 -- Epistemology
 
 [Chapter 10 -- Political Philosophy](https://robinson-philo.github.io/Chapter-10-Political-Philosophy/Chapter%2010%20Political%20Philosophy/Political_Philosophy.htm)
 
-Chapter 11 -- Philosophy of Art
+
+[Chapter 11 -- Philosophy of Art](https://robinson-philo.github.io/Chapter-11-Philosophy-of-Art/Chapter%2011%20Philosophy%20of%20Art/CONTENTS.htm)
 
 [Chapter 12 -- Conclusion](https://robinson-philo.github.io/Chapter-12-Conclusion/Chapter%2012Conclusion/CONTENTS.htm)
