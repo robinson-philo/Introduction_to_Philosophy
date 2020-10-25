@@ -5,7 +5,7 @@
 /* Layout elements */
 
 html { 
-	background-image: url("bg.png");
+	background-image: url("https://raw.githubusercontent.com/robinson-philo/Introduction_to_Philosophy/master/bg.png");
 	padding: 40px;
 }
 	  
@@ -191,7 +191,7 @@ blockquote {
 	color: #000;
 	font-style: italic;
 	padding: 5px 50px;
-	background: transparent url("blockquote.png") no-repeat 0 0;
+	background: transparent url("https://raw.githubusercontent.com/robinson-philo/Introduction_to_Philosophy/master/blockquote.png") no-repeat 0 0;
 }
 
 p {   
